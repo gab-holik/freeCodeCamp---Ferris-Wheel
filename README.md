@@ -4,4 +4,5 @@ Learning CSS animation by building a Ferris Wheel [Ferris Wheel challange on fre
 
 ### Screenshot
 
+<img width="258" alt="Screenshot 2024-01-21 212558" src="https://github.com/gab-holik/freeCodeCamp---Ferris-Wheel/assets/97192580/9c5759f8-c08b-4dde-aea8-9bb6c139d251">
 Figure 1: Ferris Wheel Preview
